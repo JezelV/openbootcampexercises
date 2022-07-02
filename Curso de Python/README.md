@@ -72,3 +72,8 @@ Por ejemplo: teniendo numero_inicial = 2 y numero_final = 8, el programa debe im
 Enunciado del ejercicio:
 
 Escribe un programa que sea capaz de mostrar los números del 1 al 100 en orden inverso.
+
+## Ejercicio 10
+Enunciado del ejercicio:
+
+Escribe una función que calcule el área de un triángulo, recibiendo la altura y la base como parámetros y otra función que calcule el área de un círculo recibiendo el radio del mismo.
