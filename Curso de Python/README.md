@@ -82,3 +82,8 @@ Escribe una función que calcule el área de un triángulo, recibiendo la altura
 Enunciado del ejercicio:
 
 Escribe una función que pueda decirte si un número (número entero) es primo o no.
+
+## Ejercicio 12
+Enunciado del ejercicio:
+
+Escribe una función que pueda decirte si un año (número entero) es bisiesto o no.
