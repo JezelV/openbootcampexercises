@@ -87,3 +87,20 @@ Escribe una función que pueda decirte si un número (número entero) es primo o
 Enunciado del ejercicio:
 
 Escribe una función que pueda decirte si un año (número entero) es bisiesto o no.
+
+## Ejercicio 13
+En este ejercicio vais a crear la clase Vehículo la cual tendrá los siguientes atributos:
+
+Color
+
+Ruedas
+
+Puertas
+
+Por otro lado crearéis la clase Coche la cual heredará de Vehículo y tendrá los siguientes atributos:
+
+Velocidad
+
+Cilindrada
+
+Por último, tendrás que crear un objeto de la clase Coche y mostrarlo por consola.
