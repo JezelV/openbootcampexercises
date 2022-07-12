@@ -145,3 +145,8 @@ En este ejercicio tendréis que crear una tabla llamada Alumnos que constará de
 Una vez creada la tabla, tenéis que insertarle datos, como mínimo tenéis que insertar 8 alumnos a la tabla.
 
 Por último, tienes que realizar una búsqueda de un alumno por nombre y mostrar los datos por consola.
+
+## Ejercicio 24
+En este ejercicio tendrás que crear una aplicación en Django que almacene datos de directores de cine y luego se puedan ver sus películas, así como una descripción de las mismas.
+
+Tienes que personalizar el admin de la aplicación y a su vez crear las vistas de cada una de las partes de la aplicación.
